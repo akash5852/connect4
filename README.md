@@ -64,6 +64,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -97,10 +98,20 @@ To get a local copy up and running follow these simple steps.
 1. Download Netbeans IDE
 2. Download/clone repo and run it through the IDE
    
+<!-- Screenshots -->
+## Screenshots
+Menu Screen:
+<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect4.png" alt="Logo" width="auto" height="120">
+In game:
+<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect41.png" alt="Logo" width="auto" height="120">
+<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect42.png" alt="Logo" width="auto" height="120">
+<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect43.png" alt="Logo" width="auto" height="120">
+How to Play:
+<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect44.png" alt="Logo" width="auto" height="120">
 
 <!-- ROADMAP -->
 ## Roadmap
-- [] Implement Multiplayer Options
+- [ ] Implement Multiplayer Options
 
 See the [open issues](https://github.com/akash5852/react-weather/issues) for a list of proposed features (and known issues).
 
