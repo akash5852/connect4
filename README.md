@@ -34,7 +34,7 @@
   <h3 align="center">Connect 4 Java App</h3>
 
   <p align="center">
-    A Connect 4 app created for our ICS4U final project.
+    A Connect 4 program created for our ICS4U final project.
     <br />
     <a href="https://github.com/akash5852/connect4"><strong>Explore the docs »</strong></a>
     <br />
@@ -76,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This team programming project was what our team decided to create for our final project for Grade 12 programming. It features object oriented design principles, as well as sorting algorithms for the highscore. It is also completely styled using the Java Library 2D graphics, to give our users a better visual of the game components. 
+The final team project for Grade 12 Programming, my partners and I decided to recreate one of our favourite games, Connect 4 in Java. It features object oriented design principles, as well as sorting algorithms for the highscore. It is also completely styled using the Java Library 2D graphics, to give our users a better visual of the game components. 
 
 
 ### Built With
