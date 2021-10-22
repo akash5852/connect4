@@ -27,21 +27,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/akash5852/react-weather">
-    <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/50/000000/external-cloud-multimedia-kiranshastry-lineal-color-kiranshastry.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/akash5852/connect4">
+    <img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect4.PNG" alt="Logo" width="auto" height="120">
   </a>
 
-  <h3 align="center">React Weather App</h3>
+  <h3 align="center">Connect 4 Java App</h3>
 
   <p align="center">
-    A weather app created using React.
+    A Connect 4 app created for our ICS4U final project.
     <br />
-    <a href="https://github.com/akash5852/react-weather"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/akash5852/connect4"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/akash5852/react-weather/issues">Report Bug</a>
+    <a href="https://github.com/akash5852/connect4/issues">Report Bug</a>
     ·
-    <a href="https://github.com/akash5852/react-weather/issues">Request Feature</a>
+    <a href="https://github.com/akash5852/connect4/issues">Request Feature</a>
   </p>
 </p>
 
@@ -77,15 +77,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The purpose of this project was to practice my react skills, as well as practicing API handelling.
+This team programming project was what our team decided to create for our final project for Grade 12 programming. It features object oriented design principles, as well as sorting algorithms for the highscore. It is also completely styled using the Java Library 2D graphics, to give our users a better visual of the game components. 
 
 
 ### Built With
 
-* React
-* CSS
-* Axios
-* Openweathermap API
+* Java
+* Netbeans
+* Java 2D Graphics
+* JDK 11
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -94,33 +94,13 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/akash5852/react-weather.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+1. Download Netbeans IDE
+2. Download/clone repo and run it through the IDE
    
 
 <!-- ROADMAP -->
 ## Roadmap
-- [x] Learn React.js
-- [x] Create the react app
-- [x] Call the Weather API and get a key
-- [x] Display the correct information to the user
-- [x] Stylize the website
-- [] Make the webstite Mobile Friendly
-- [] Deploy website using netlify
+- [] Implement Multiplayer Options
 
 See the [open issues](https://github.com/akash5852/react-weather/issues) for a list of proposed features (and known issues).
 
@@ -151,4 +131,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Akash Sharma - aksha5852@gmail.com
 
-Project Link: [https://github.com/akash5852/react-weather](https://github.com/akash5852/react-weather)
+Project Link: [https://github.com/akash5852/connect4](https://github.com/akash5852/connect4)
