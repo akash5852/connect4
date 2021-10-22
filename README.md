@@ -61,11 +61,9 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#screenshots">Screenshots</a></li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -100,14 +98,14 @@ To get a local copy up and running follow these simple steps.
    
 <!-- Screenshots -->
 ## Screenshots
-Menu Screen:
-<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect4.png" alt="Logo" width="auto" height="120">
-In game:
-<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect41.png" alt="Logo" width="auto" height="120">
-<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect42.png" alt="Logo" width="auto" height="120">
-<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect43.png" alt="Logo" width="auto" height="120">
-How to Play:
-<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect44.png" alt="Logo" width="auto" height="120">
+Menu Screen:<br />
+<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect4.png" alt="Menu Screen" width="auto" height="500"><br />
+In Game:<br />
+<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect41.png" alt="In Game Playing" width="auto" height="500"><br />
+<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect42.png" alt="In Game Win" width="auto" height="500"><br />
+<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect432.png" alt="In Game Restart" width="auto" height="500"><br />
+How to Play:<br />
+<img src="https://github.com/akash5852/connect4/blob/main/GraphicsTesting/src/connect44.png" alt="How to play" width="auto" height="500"><br />
 
 <!-- ROADMAP -->
 ## Roadmap
