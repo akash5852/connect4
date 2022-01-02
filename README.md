@@ -139,5 +139,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Akash Sharma - aksha5852@gmail.com
+Evan Ferguson - evfer9809@gmail.com
 
 Project Link: [https://github.com/akash5852/connect4](https://github.com/akash5852/connect4)
