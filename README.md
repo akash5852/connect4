@@ -76,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The final team project for Grade 12 Programming, my partners and I decided to recreate one of our favourite games, Connect 4 in Java. It features object oriented design principles, as well as sorting algorithms for the highscore. It is also completely styled using the Java Library 2D graphics, to give our users a better visual of the game components. 
+The final team project for Grade 12 Programming, my partners and we decided to recreate one of our favourite games, Connect 4 in Java. It features object oriented design principles, as well as sorting algorithms for the highscore. It is also completely styled using the Java Library 2D graphics, to give our users a better visual of the game components. 
 
 
 ### Built With
